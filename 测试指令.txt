@@ -1,0 +1,1 @@
+g++ test.cpp -o test.out -lopencv_highgui -lopencv_core -lopencv_imgproc -lopencv_objdetect -std=c++11 -lcurl -lcrypto -ljsoncpp
